@@ -1,0 +1,4 @@
+1.) Basic Probability	        :   5/6
+2.) More Dice	     		:   1/9
+3.) Computed Event Probability  :   17/42	
+ 
